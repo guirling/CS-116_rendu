@@ -1,7 +1,7 @@
 # CS-116_rendu
 
 Projet Network.
-Niko Guirlinger
+Niko Guirlinger.
 Novembre 2018
 
 
